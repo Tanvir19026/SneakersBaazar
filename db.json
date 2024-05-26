@@ -1,0 +1,44 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "title": "Air Max 270",
+      "brand": "Nike",
+      "price": "20",
+      "description": "The Nike Air Max 270 combines modern comfort with a throwback style inspired by the Air Max 180 and Air Max 93.",
+      "image_url": "https://img.freepik.com/free-psd/running-shoes-sneakers-transparent-background_84443-1654.jpg?t=st=1716454923~exp=1716458523~hmac=b92da332b8a1f96366f25dffb2f1ece13d842e4afe9417b21e94e4009f93b09c&w=1480"
+    },
+    {
+      "id": "2",
+      "title": "UltraBoost 21",
+      "brand": "Adidas",
+      "price": "102",
+      "description": "The Adidas UltraBoost 21 features a bold new design with an improved Boost midsole for ultimate comfort and energy return.",
+      "image_url": "https://img.freepik.com/free-psd/running-shoes-sneakers-transparent-background_84443-1610.jpg?t=st=1716454855~exp=1716458455~hmac=7bbba604387bb3447eb82633eaf611178ba651580f20fd9d4a5610fa1c6bbd40&w=1480"
+    },
+    {
+      "id": "3",
+      "title": "Classic Leather",
+      "brand": "Reebok",
+      "price": 75,
+      "description": "Reebok's Classic Leather sneakers are timeless icons, offering everyday comfort and a sleek look with their soft leather upper.",
+      "image_url": "https://img.freepik.com/free-psd/running-shoes-sneakers-transparent-background_84443-1659.jpg?t=st=1716454935~exp=1716458535~hmac=6e3b9b287577c5006087b1d65aa8d14583b60fb12f383e77c2563e3262aa46ce&w=1480"
+    },
+    {
+      "id": "4",
+      "title": "Bata Sneakers",
+      "brand": "Bata",
+      "price": "150",
+      "description": "Bata best quality.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIkULvlIxZVbVqa8xkZA7OfsyrGgzNJNJvlbzX5UsiQsWvTVnG2lJwnKRSv40VeeIeavI&usqp=CAU"
+    },
+    {
+      "id": "5",
+      "title": "King Walker",
+      "brand": "Nike",
+      "price": "133",
+      "description": "Lotto is an emerging company all over the world.it has so many collection",
+      "image_url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F03%2Fnike-unveils-womens-2019-summer-footwear-collection-001.jpg?cbr=1&q=90"
+    }
+  ]
+}
